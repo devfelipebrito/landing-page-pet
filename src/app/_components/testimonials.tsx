@@ -47,7 +47,7 @@ export function Testimonials() {
     <section className="bg-[#FFD449] py-16">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-bold text-center mb-12">
-          DEPOSIMENTOS DOS NOSSOS CLIENTES
+          DEPOIMENTOS DOS NOSSOS CLIENTES
         </h2>
 
         <div className="relative max-w-4xl mx-auto">
